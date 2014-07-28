@@ -8,14 +8,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
-author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+title : Michael Selsky Dev Blog
+tagline: I do things
+author : Michael Selsky
+  name : Michael Selsky
+  email : Michael@Selsky.me
+  github : mselsky
+  twitter : @MichaelSelsky
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -31,7 +30,7 @@ production_url : http://username.github.io
 #
 JB :
   version : 0.3.0
-
+`
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
   # however this value will be dynamically changed depending on your deployment situation.
